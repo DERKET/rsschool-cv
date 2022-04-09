@@ -36,3 +36,7 @@ divisible by both integers a and b. _/
 1 function isDivideBy (number, a, b) {
 2 return number % a === 0 && number % b === 0
 3 }
+
+## Education
+
+JS/FE Pre-School 2022
